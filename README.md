@@ -1,4 +1,4 @@
-# titanic_survival_predictions
+# titanic_survival_predictions <br />
 Data Source:- Kaggle
 Various algorithms used here are:
   Gaussian Naive Bayes
